@@ -1,2 +1,2 @@
-# MachineLearningTutorials
-Tutorials and Examples for my Machine Learning Class
+# AdvancedMachineLearningCode
+Projects for my Spring 2018 Advanced Machine Learning Class
